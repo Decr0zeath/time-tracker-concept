@@ -1,0 +1,11 @@
+C:\Users\Decr0zeath\source\repos\Job Timer\bin\Debug\Job Timer.exe.config
+C:\Users\Decr0zeath\source\repos\Job Timer\bin\Debug\Job Timer.exe
+C:\Users\Decr0zeath\source\repos\Job Timer\bin\Debug\Job Timer.pdb
+C:\Users\Decr0zeath\source\repos\Job Timer\obj\Debug\Job_Timer.Form1.resources
+C:\Users\Decr0zeath\source\repos\Job Timer\obj\Debug\Job_Timer.Properties.Resources.resources
+C:\Users\Decr0zeath\source\repos\Job Timer\obj\Debug\Job Timer.csproj.GenerateResource.cache
+C:\Users\Decr0zeath\source\repos\Job Timer\obj\Debug\Job Timer.csproj.CoreCompileInputs.cache
+C:\Users\Decr0zeath\source\repos\Job Timer\obj\Debug\Job Timer.csproj.CopyComplete
+C:\Users\Decr0zeath\source\repos\Job Timer\obj\Debug\Job Timer.exe
+C:\Users\Decr0zeath\source\repos\Job Timer\obj\Debug\Job Timer.pdb
+C:\Users\Decr0zeath\source\repos\Job Timer\obj\Debug\Job Timer.csprojAssemblyReference.cache
