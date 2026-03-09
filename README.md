@@ -1,4 +1,4 @@
-# Job Timer Test
+# Tiem Tracker Test
 
 This was supposed to be a scalable side project to be used for the company I worked for before (2021).
 
